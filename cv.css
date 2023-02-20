@@ -1,0 +1,42 @@
+/*css*/
+h1 {
+    color: indigo;
+    text-align: left;
+    font-size: 36px;
+  }
+  p{
+    color: brown
+  }
+  h2{
+    color: darkmagenta
+  }
+  img {
+    width: 100px;
+    height: auto;
+  }
+  body{
+    background-color:khaki
+  }
+  footer{
+    font-style: oblique;
+  }
+
+ #formacion {
+    color: rgb(18, 119, 85);
+    
+ }
+
+  section #laboral {
+    border-style: solid;
+    border-color:indianred;
+    border-top: 1px solid black;
+    border-right: 2px dotted green;
+    border-bottom: 3px dashed red;
+    border-left: 4px double blue;
+}
+
+
+ 
+ 
+ 
+ 
